@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="61cm" height="96cm" viewBox="118 -22 1203 1903" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="61cm" height="93cm" viewBox="118 -22 1203 1843" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect style="fill: #e5e5e5" x="120" y="-20" width="1200" height="1900"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="-20" width="1200" height="1900"/>
+    <rect style="fill: #e5e5e5" x="120" y="-20" width="1200" height="1840"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="-20" width="1200" height="1840"/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="630.06" y="11.1337" width="669.94" height="97.9994"/>
@@ -29,8 +29,8 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.75" y="560" width="1157.25" height="480"/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="143.25" y="1600" width="1156.75" height="260"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="143.25" y="1600" width="1156.75" height="260"/>
+    <rect style="fill: #ffffff" x="143.25" y="1600" width="1156.75" height="200"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="143.25" y="1600" width="1156.75" height="200"/>
   </g>
   <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162" y="165.74">
     <tspan x="162" y="165.74">R</tspan>
@@ -63,15 +63,15 @@
     <tspan x="161.5" y="1348.94">N</tspan>
     <tspan x="161.5" y="1364.94">G</tspan>
   </text>
-  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162.5" y="1669.94">
-    <tspan x="162.5" y="1669.94">C</tspan>
-    <tspan x="162.5" y="1685.94">O</tspan>
-    <tspan x="162.5" y="1701.94">U</tspan>
-    <tspan x="162.5" y="1717.94">N</tspan>
-    <tspan x="162.5" y="1733.94">T</tspan>
-    <tspan x="162.5" y="1749.94">I</tspan>
-    <tspan x="162.5" y="1765.94">N</tspan>
-    <tspan x="162.5" y="1781.94">G</tspan>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162.5" y="1649.94">
+    <tspan x="162.5" y="1649.94">C</tspan>
+    <tspan x="162.5" y="1665.94">O</tspan>
+    <tspan x="162.5" y="1681.94">U</tspan>
+    <tspan x="162.5" y="1697.94">N</tspan>
+    <tspan x="162.5" y="1713.94">T</tspan>
+    <tspan x="162.5" y="1729.94">I</tspan>
+    <tspan x="162.5" y="1745.94">N</tspan>
+    <tspan x="162.5" y="1761.94">G</tspan>
   </text>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1087.75" y="39.0999">
     <tspan x="1087.75" y="39.0999">Insecure Voter PC</tspan>
@@ -433,22 +433,22 @@
     <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="307" y="1713.24">Announce result</text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="1750" x2="1239.88" y2="1750"/>
-    <polygon style="fill: #000000" points="1091.42,1745 1075.42,1750 1091.42,1755 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,1745 1075.42,1750 1091.42,1755 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1158" y="1762.74">Count votes</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="1690" x2="1239.88" y2="1690"/>
+    <polygon style="fill: #000000" points="1091.42,1685 1075.42,1690 1091.42,1695 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,1685 1075.42,1690 1091.42,1695 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1158" y="1702.74">Count votes</text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1222.88" y1="1770" x2="1074.43" y2="1770"/>
-    <polygon style="fill: #000000" points="1222.88,1775 1238.88,1770 1222.88,1765 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1222.88,1775 1238.88,1770 1222.88,1765 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1155" y="1782.74">Results</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1222.88" y1="1710" x2="1074.43" y2="1710"/>
+    <polygon style="fill: #000000" points="1222.88,1715 1238.88,1710 1222.88,1705 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1222.88,1715 1238.88,1710 1222.88,1705 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1155" y="1722.74">Results</text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.55" y1="1820" x2="1239.88" y2="1820"/>
-    <polygon style="fill: #000000" points="434.55,1815 418.55,1820 434.55,1825 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="434.55,1815 418.55,1820 434.55,1825 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="835" y="1832.74">Compare results</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.55" y1="1760" x2="1239.88" y2="1760"/>
+    <polygon style="fill: #000000" points="434.55,1755 418.55,1760 434.55,1765 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="434.55,1755 418.55,1760 434.55,1765 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="835" y="1772.74">Compare results</text>
   </g>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="180" x2="410.55" y2="200"/>
@@ -631,28 +631,22 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="1680" width="14" height="40"/>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1720" x2="1067.43" y2="1740"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1780" x2="1067.43" y2="1780"/>
-    <rect style="fill: #ffffff" x="1060.42" y="1740" width="14" height="40"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="1740" width="14" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1460" x2="1246.88" y2="1680"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1720" x2="1246.88" y2="1790"/>
+    <rect style="fill: #ffffff" x="1239.88" y="1680" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1680" width="14" height="40"/>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1460" x2="1246.88" y2="1740"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1780" x2="1246.88" y2="1790"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1720" x2="1246.88" y2="1740"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1780" x2="1246.88" y2="1780"/>
     <rect style="fill: #ffffff" x="1239.88" y="1740" width="14" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1740" width="14" height="40"/>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1780" x2="1246.88" y2="1800"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1840" x2="1246.88" y2="1840"/>
-    <rect style="fill: #ffffff" x="1239.88" y="1800" width="14" height="40"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1800" width="14" height="40"/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1720" x2="410.55" y2="1800"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1840" x2="410.55" y2="1840"/>
-    <rect style="fill: #ffffff" x="403.55" y="1800" width="14" height="40"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1800" width="14" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1720" x2="410.55" y2="1740"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1780" x2="410.55" y2="1780"/>
+    <rect style="fill: #ffffff" x="403.55" y="1740" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1740" width="14" height="40"/>
   </g>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="700" x2="800.125" y2="720"/>
