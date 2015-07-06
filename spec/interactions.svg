@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="61cm" height="96cm" viewBox="118 -22 1203 1903" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e5e5e5" x="120" y="-20" width="1200" height="1900"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="-20" width="1200" height="1900"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="630.06" y="11.1337" width="669.94" height="97.9994"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="630.06" y="11.1337" width="669.94" height="97.9994"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="29.9998" width="227.061" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="29.9998" width="227.061" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="420" y="49.9998">
+    <tspan x="420" y="49.9998">CEC Server</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="143" y="120" width="1157" height="320"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="143" y="120" width="1157" height="320"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="142.5" y="1160" width="1157.5" height="320"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.5" y="1160" width="1157.5" height="320"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="142.75" y="560" width="1157.25" height="480"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.75" y="560" width="1157.25" height="480"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="143.25" y="1600" width="1156.75" height="260"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="143.25" y="1600" width="1156.75" height="260"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162" y="165.74">
+    <tspan x="162" y="165.74">R</tspan>
+    <tspan x="162" y="181.74">E</tspan>
+    <tspan x="162" y="197.74">G</tspan>
+    <tspan x="162" y="213.74">I</tspan>
+    <tspan x="162" y="229.74">S</tspan>
+    <tspan x="162" y="245.74">T</tspan>
+    <tspan x="162" y="261.74">R</tspan>
+    <tspan x="162" y="277.74">A</tspan>
+    <tspan x="162" y="293.74">T</tspan>
+    <tspan x="162" y="309.74">I</tspan>
+    <tspan x="162" y="325.74">O</tspan>
+    <tspan x="162" y="341.74">N</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162.75" y="719.839">
+    <tspan x="162.75" y="719.839">V</tspan>
+    <tspan x="162.75" y="735.839">O</tspan>
+    <tspan x="162.75" y="751.839">T</tspan>
+    <tspan x="162.75" y="767.839">I</tspan>
+    <tspan x="162.75" y="783.839">N</tspan>
+    <tspan x="162.75" y="799.839">G</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="161.5" y="1268.94">
+    <tspan x="161.5" y="1268.94">S</tspan>
+    <tspan x="161.5" y="1284.94">I</tspan>
+    <tspan x="161.5" y="1300.94">G</tspan>
+    <tspan x="161.5" y="1316.94">N</tspan>
+    <tspan x="161.5" y="1332.94">I</tspan>
+    <tspan x="161.5" y="1348.94">N</tspan>
+    <tspan x="161.5" y="1364.94">G</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="162.5" y="1669.94">
+    <tspan x="162.5" y="1669.94">C</tspan>
+    <tspan x="162.5" y="1685.94">O</tspan>
+    <tspan x="162.5" y="1701.94">U</tspan>
+    <tspan x="162.5" y="1717.94">N</tspan>
+    <tspan x="162.5" y="1733.94">T</tspan>
+    <tspan x="162.5" y="1749.94">I</tspan>
+    <tspan x="162.5" y="1765.94">N</tspan>
+    <tspan x="162.5" y="1781.94">G</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1087.75" y="39.0999">
+    <tspan x="1087.75" y="39.0999">Insecure Voter PC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="630.06" y="451.133" width="669.94" height="97.9994"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="630.06" y="451.133" width="669.94" height="97.9994"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="460" width="227.061" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="460" width="227.061" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="420" y="480">
+    <tspan x="420" y="480">CEC Server</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="640" y="460" width="322.058" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="640" y="460" width="322.058" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="760" y="480">
+    <tspan x="760" y="480">Mix-net</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1087.75" y="473.1">
+    <tspan x="1087.75" y="473.1">Insecure Voter PC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="630" y="1050" width="669.94" height="97.9994"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="630" y="1050" width="669.94" height="97.9994"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="339.94" y="1058.86" width="227.061" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="339.94" y="1058.86" width="227.061" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="419.94" y="1078.86">
+    <tspan x="419.94" y="1078.86">CEC Server</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="639.94" y="1058.86" width="322.058" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="639.94" y="1058.86" width="322.058" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="759.94" y="1078.86">
+    <tspan x="759.94" y="1078.86">Mix-net</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1087.69" y="1070.96">
+    <tspan x="1087.69" y="1070.96">Insecure Voter PC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="629.75" y="1492.09" width="669.94" height="97.9994"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="629.75" y="1492.09" width="669.94" height="97.9994"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="339.69" y="1500.96" width="227.061" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="339.69" y="1500.96" width="227.061" height="80"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="419.69" y="1520.96">
+    <tspan x="419.69" y="1520.96">CEC Server</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1087.44" y="1513.06">
+    <tspan x="1087.44" y="1513.06">Insecure Voter PC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="494.941" y="891.243" width="322.999" height="78.9998"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="494.941" y="891.243" width="322.999" height="78.9998"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="495.056" y="631.789" width="322.999" height="79.8403"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="495.056" y="631.789" width="322.999" height="79.8403"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="59.9997" width="70.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="59.9997" width="70.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="515.15" y="81.8997">
+      <tspan x="515.15" y="81.8997">CEC API</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="490" y1="84.9497" x2="540.3" y2="84.9497"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1220" y="59.9997" width="53.75" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1220" y="59.9997" width="53.75" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1246.88" y="81.8997">
+      <tspan x="1246.88" y="81.8997">Voter</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1230" y1="84.9497" x2="1263.75" y2="84.9497"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="386.55" y1="160" x2="230" y2="160"/>
+    <polygon style="fill: #000000" points="386.55,165 402.55,160 386.55,155 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="386.55,165 402.55,160 386.55,155 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="306" y="175.24">Announce CecPubKey</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.55" y1="210" x2="1239.88" y2="210"/>
+    <polygon style="fill: #000000" points="434.55,205 418.55,210 434.55,215 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="434.55,205 418.55,210 434.55,215 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="978" y="224.24">Voter Identification</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1222.88" y1="230" x2="417.55" y2="230"/>
+    <polygon style="fill: #000000" points="1222.88,235 1238.88,230 1222.88,225 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1222.88,235 1238.88,230 1222.88,225 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="983" y="244.24">VoterID</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="59.9997" width="101.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="59.9997" width="101.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.55" y="81.8997">
+      <tspan x="410.55" y="81.8997">CEC Website</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="370" y1="84.9497" x2="451.1" y2="84.9497"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="200" y="59.9997" width="46" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="59.9997" width="46" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="223" y="81.8997">
+      <tspan x="223" y="81.8997">CEC</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="210" y1="84.9497" x2="236" y2="84.9497"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1020" y="59.9997" width="94.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="59.9997" width="94.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1067.43" y="81.8997">
+      <tspan x="1067.43" y="81.8997">Voter Client</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1030" y1="84.9497" x2="1104.85" y2="84.9497"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="280" x2="1239.88" y2="280"/>
+    <polygon style="fill: #000000" points="1091.42,275 1075.42,280 1091.42,285 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,275 1075.42,280 1091.42,285 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1163" y="293.24">Register(VoterID)</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="280" x2="1060.42" y2="280"/>
+    <polygon style="fill: #000000" points="539.15,275 523.15,280 539.15,285 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,275 523.15,280 539.15,285 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="808" y="292.24">Announce VoterPubKey</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="386.55" y1="340" x2="230" y2="340"/>
+    <polygon style="fill: #000000" points="386.55,345 402.55,340 386.55,335 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="386.55,345 402.55,340 386.55,335 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="304" y="354.24">Announce voters</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="600" x2="1239.88" y2="600"/>
+    <polygon style="fill: #000000" points="1091.42,595 1075.42,600 1091.42,605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,595 1075.42,600 1091.42,605 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1165" y="612.24">Run mix-net node</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="730" x2="1239.88" y2="730"/>
+    <polygon style="fill: #000000" points="1091.42,725 1075.42,730 1091.42,735 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,725 1075.42,730 1091.42,735 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1158" y="743.24">Vote</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="600" x2="793.125" y2="600"/>
+    <polygon style="fill: #000000" points="539.15,595 523.15,600 539.15,605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,595 523.15,600 539.15,605 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="611.24">Announce mix-net node availability</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="600" x2="1060.42" y2="600"/>
+    <polygon style="fill: #000000" points="824.125,595 808.125,600 824.125,605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,595 808.125,600 824.125,605 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="958" y="613.24">Start mix-net node daemon</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="95.9997" x2="223" y2="140"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="180" x2="223" y2="220"/>
+    <rect style="fill: #ffffff" x="216" y="140" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="140" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="95.9997" x2="410.55" y2="140"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="180" x2="410.55" y2="220"/>
+    <rect style="fill: #ffffff" x="403.55" y="140" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="140" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="95.9997" x2="515.15" y2="260"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="300" x2="515.15" y2="340"/>
+    <rect style="fill: #ffffff" x="508.15" y="260" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="260" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="700.9" y1="525.997" x2="700.9" y2="840"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="700.9" y1="880" x2="700.9" y2="1414"/>
+    <rect style="fill: #ffffff" x="693.9" y="840" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="693.9" y="840" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="525.997" x2="800.125" y2="580"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="620" x2="800.125" y2="1034"/>
+    <rect style="fill: #ffffff" x="793.125" y="580" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="580" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="902.2" y1="525.997" x2="902.2" y2="780"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="902.2" y1="820" x2="902.2" y2="1280"/>
+    <rect style="fill: #ffffff" x="895.2" y="780" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="895.2" y="780" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="95.9997" x2="1067.43" y2="260"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="300" x2="1067.43" y2="340"/>
+    <rect style="fill: #ffffff" x="1060.42" y="260" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="260" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="95.9997" x2="1246.88" y2="200"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="240" x2="1246.88" y2="280"/>
+    <rect style="fill: #ffffff" x="1239.88" y="200" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="200" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="926.2" y1="800" x2="1060.42" y2="800"/>
+    <polygon style="fill: #000000" points="926.2,795 910.2,800 926.2,805 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="926.2,795 910.2,800 926.2,805 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="987" y="811.74">Send envelope</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="800" x2="895.2" y2="800"/>
+    <polygon style="fill: #000000" points="824.125,795 808.125,800 824.125,805 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,795 808.125,800 824.125,805 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="859" y="811.74">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="724.9" y1="860" x2="793.125" y2="860"/>
+    <polygon style="fill: #000000" points="724.9,855 708.9,860 724.9,865 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="724.9,855 708.9,860 724.9,865 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="757" y="872.74">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="860" x2="693.9" y2="860"/>
+    <polygon style="fill: #000000" points="539.15,855 523.15,860 539.15,865 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,855 523.15,860 539.15,865 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="613" y="871.74">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.55" y1="860" x2="508.15" y2="860"/>
+    <polygon style="fill: #000000" points="434.55,855 418.55,860 434.55,865 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="434.55,855 418.55,860 434.55,865 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="469" y="871.74">Publish</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="930" x2="793.125" y2="930"/>
+    <polygon style="fill: #000000" points="539.15,925 523.15,930 539.15,935 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,925 523.15,930 539.15,935 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="649" y="941.74">Get new votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="776.125" y1="950" x2="522.15" y2="950"/>
+    <polygon style="fill: #000000" points="776.125,955 792.125,950 776.125,945 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776.125,955 792.125,950 776.125,945 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="677" y="961.74">[(Vote, IdPubKey, Hash), ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="990" x2="1060.42" y2="990"/>
+    <polygon style="fill: #000000" points="824.125,985 808.125,990 824.125,995 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,985 808.125,990 824.125,995 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="924" y="1001.74">Get new votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="1010" x2="807.125" y2="1010"/>
+    <polygon style="fill: #000000" points="1043.43,1015 1059.43,1010 1043.43,1005 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,1015 1059.43,1010 1043.43,1005 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="946" y="1025.24">[(Vote, IdPubKey, Hash), ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1222.88" y1="1010" x2="1074.43" y2="1010"/>
+    <polygon style="fill: #000000" points="1222.88,1015 1238.88,1010 1222.88,1005 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1222.88,1015 1238.88,1010 1222.88,1005 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1155" y="1024.24">Cast as intended</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="390" x2="1060.42" y2="390"/>
+    <polygon style="fill: #000000" points="539.15,385 523.15,390 539.15,395 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,385 523.15,390 539.15,395 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="808.65" y="401.74">Get registered voters</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="410" x2="522.15" y2="410"/>
+    <polygon style="fill: #000000" points="1043.43,415 1059.43,410 1043.43,405 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,415 1059.43,410 1043.43,405 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="798.65" y="421.74">[VoterPubKey, ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="386.55" y1="1200" x2="230" y2="1200"/>
+    <polygon style="fill: #000000" points="386.55,1205 402.55,1200 386.55,1195 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="386.55,1205 402.55,1200 386.55,1195 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="304" y="1215.24">Announce votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="1250" x2="1239.88" y2="1250"/>
+    <polygon style="fill: #000000" points="1091.42,1245 1075.42,1250 1091.42,1255 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,1245 1075.42,1250 1091.42,1255 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1154" y="1262.74">Sign</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="1310" x2="1060.42" y2="1310"/>
+    <polygon style="fill: #000000" points="824.125,1305 808.125,1310 824.125,1315 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,1305 808.125,1310 824.125,1315 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="924.054" y="1323.29">Get new votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="1330" x2="807.125" y2="1330"/>
+    <polygon style="fill: #000000" points="1043.43,1335 1059.43,1330 1043.43,1325 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,1335 1059.43,1330 1043.43,1325 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="946" y="1343.74">[(Vote, IdPubKey, Hash), ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="926.2" y1="1380" x2="1060.42" y2="1380"/>
+    <polygon style="fill: #000000" points="926.2,1375 910.2,1380 926.2,1385 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="926.2,1375 910.2,1380 926.2,1385 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="989" y="1394.24">Send envelope</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="1380" x2="895.2" y2="1380"/>
+    <polygon style="fill: #000000" points="824.125,1375 808.125,1380 824.125,1385 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,1375 808.125,1380 824.125,1385 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="858" y="1394.24">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="724.9" y1="1440" x2="793.125" y2="1440"/>
+    <polygon style="fill: #000000" points="724.9,1435 708.9,1440 724.9,1445 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="724.9,1435 708.9,1440 724.9,1445 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="758" y="1453.24">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="1440" x2="693.9" y2="1440"/>
+    <polygon style="fill: #000000" points="539.15,1435 523.15,1440 539.15,1445 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,1435 523.15,1440 539.15,1445 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="613" y="1453.24">Forward</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="386.55" y1="1640" x2="230" y2="1640"/>
+    <polygon style="fill: #000000" points="386.55,1645 402.55,1640 386.55,1635 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="386.55,1645 402.55,1640 386.55,1635 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="311" y="1654.74">Announce signed votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="1690" x2="1060.42" y2="1690"/>
+    <polygon style="fill: #000000" points="539.15,1685 523.15,1690 539.15,1695 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,1685 523.15,1690 539.15,1695 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="792" y="1701.74">Ged signed votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="1710" x2="522.15" y2="1710"/>
+    <polygon style="fill: #000000" points="1043.43,1715 1059.43,1710 1043.43,1705 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,1715 1059.43,1710 1043.43,1705 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="787" y="1724.24">[(Vote, IdPubKey, Hash, Signature), ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="386.55" y1="1700" x2="230" y2="1700"/>
+    <polygon style="fill: #000000" points="386.55,1705 402.55,1700 386.55,1695 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="386.55,1705 402.55,1700 386.55,1695 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="307" y="1713.24">Announce result</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="1750" x2="1239.88" y2="1750"/>
+    <polygon style="fill: #000000" points="1091.42,1745 1075.42,1750 1091.42,1755 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,1745 1075.42,1750 1091.42,1755 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1158" y="1762.74">Count votes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1222.88" y1="1770" x2="1074.43" y2="1770"/>
+    <polygon style="fill: #000000" points="1222.88,1775 1238.88,1770 1222.88,1765 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1222.88,1775 1238.88,1770 1222.88,1765 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1155" y="1782.74">Results</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.55" y1="1820" x2="1239.88" y2="1820"/>
+    <polygon style="fill: #000000" points="434.55,1815 418.55,1820 434.55,1825 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="434.55,1815 418.55,1820 434.55,1825 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="835" y="1832.74">Compare results</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="180" x2="410.55" y2="200"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="240" x2="410.55" y2="290"/>
+    <rect style="fill: #ffffff" x="403.55" y="200" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="200" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="240" x2="1246.88" y2="260"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="300" x2="1246.88" y2="320"/>
+    <rect style="fill: #ffffff" x="1239.88" y="260" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="260" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="420" x2="1246.88" y2="580"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="620" x2="1246.88" y2="640"/>
+    <rect style="fill: #ffffff" x="1239.88" y="580" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="580" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="420" x2="1067.43" y2="580"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="620" x2="1067.43" y2="680"/>
+    <rect style="fill: #ffffff" x="1060.42" y="580" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="580" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="420" x2="515.15" y2="580"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="620" x2="515.15" y2="689.998"/>
+    <rect style="fill: #ffffff" x="508.15" y="580" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="580" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="240" x2="410.55" y2="320"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="360" x2="410.55" y2="380"/>
+    <rect style="fill: #ffffff" x="403.55" y="320" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="320" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="180" x2="223" y2="320"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="360" x2="223" y2="380"/>
+    <rect style="fill: #ffffff" x="216" y="320" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="320" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="620" x2="1246.88" y2="720"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1020" x2="1246.88" y2="1090"/>
+    <rect style="fill: #ffffff" x="1239.88" y="720" width="14" height="300"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="720" width="14" height="300"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="620" x2="1067.43" y2="720"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1020" x2="1067.43" y2="1090"/>
+    <rect style="fill: #ffffff" x="1060.42" y="720" width="14" height="300"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="720" width="14" height="300"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="760" x2="800.125" y2="780"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="880" x2="800.125" y2="940"/>
+    <rect style="fill: #ffffff" x="793.125" y="780" width="14" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="780" width="14" height="100"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="700" x2="515.15" y2="840"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="880" x2="515.15" y2="960"/>
+    <rect style="fill: #ffffff" x="508.15" y="840" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="840" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="360" x2="410.55" y2="840"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="880" x2="410.55" y2="950"/>
+    <rect style="fill: #ffffff" x="403.55" y="840" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="840" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="880" x2="800.125" y2="920"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="960" x2="800.125" y2="960"/>
+    <rect style="fill: #ffffff" x="793.125" y="920" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="920" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="880" x2="515.15" y2="920"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="960" x2="515.15" y2="1030"/>
+    <rect style="fill: #ffffff" x="508.15" y="920" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="920" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="960" x2="800.125" y2="980"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1020" x2="800.125" y2="1040"/>
+    <rect style="fill: #ffffff" x="793.125" y="980" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="980" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="360" x2="223" y2="1180"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="1220" x2="223" y2="1230"/>
+    <rect style="fill: #ffffff" x="216" y="1180" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="1180" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="880" x2="410.55" y2="1180"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1220" x2="410.55" y2="1250"/>
+    <rect style="fill: #ffffff" x="403.55" y="1180" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1180" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1020" x2="1246.88" y2="1240"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1460" x2="1246.88" y2="1470"/>
+    <rect style="fill: #ffffff" x="1239.88" y="1240" width="14" height="220"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1240" width="14" height="220"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1020" x2="1067.43" y2="1240"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1460" x2="1067.43" y2="1470"/>
+    <rect style="fill: #ffffff" x="1060.42" y="1240" width="14" height="220"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="1240" width="14" height="220"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1280" x2="800.125" y2="1300"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1340" x2="800.125" y2="1360"/>
+    <rect style="fill: #ffffff" x="793.125" y="1300" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="1300" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="902.2" y1="820" x2="902.2" y2="1360"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="902.2" y1="1400" x2="902.2" y2="1410"/>
+    <rect style="fill: #ffffff" x="895.2" y="1360" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="895.2" y="1360" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1340" x2="800.125" y2="1360"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1460" x2="800.125" y2="1460"/>
+    <rect style="fill: #ffffff" x="793.125" y="1360" width="14" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="1360" width="14" height="100"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="700.9" y1="880" x2="700.9" y2="1420"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="700.9" y1="1460" x2="700.9" y2="1460"/>
+    <rect style="fill: #ffffff" x="693.9" y="1420" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="693.9" y="1420" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="960" x2="515.15" y2="1420"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="1460" x2="515.15" y2="1470"/>
+    <rect style="fill: #ffffff" x="508.15" y="1420" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="1420" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1220" x2="410.55" y2="1620"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1660" x2="410.55" y2="1670"/>
+    <rect style="fill: #ffffff" x="403.55" y="1620" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1620" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="1220" x2="223" y2="1620"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="1660" x2="223" y2="1670"/>
+    <rect style="fill: #ffffff" x="216" y="1620" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="1620" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="1460" x2="515.15" y2="1680"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="1720" x2="515.15" y2="1720"/>
+    <rect style="fill: #ffffff" x="508.15" y="1680" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="1680" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1460" x2="1067.43" y2="1680"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1720" x2="1067.43" y2="1730"/>
+    <rect style="fill: #ffffff" x="1060.42" y="1680" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="1680" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1660" x2="410.55" y2="1680"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1720" x2="410.55" y2="1720"/>
+    <rect style="fill: #ffffff" x="403.55" y="1680" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1680" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="1660" x2="223" y2="1680"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="223" y1="1720" x2="223" y2="1720"/>
+    <rect style="fill: #ffffff" x="216" y="1680" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="216" y="1680" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1720" x2="1067.43" y2="1740"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="1780" x2="1067.43" y2="1780"/>
+    <rect style="fill: #ffffff" x="1060.42" y="1740" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="1740" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1460" x2="1246.88" y2="1740"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1780" x2="1246.88" y2="1790"/>
+    <rect style="fill: #ffffff" x="1239.88" y="1740" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1740" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1780" x2="1246.88" y2="1800"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="1840" x2="1246.88" y2="1840"/>
+    <rect style="fill: #ffffff" x="1239.88" y="1800" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="1800" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1720" x2="410.55" y2="1800"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="410.55" y1="1840" x2="410.55" y2="1840"/>
+    <rect style="fill: #ffffff" x="403.55" y="1800" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="403.55" y="1800" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="700" x2="800.125" y2="720"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="760" x2="800.125" y2="760"/>
+    <rect style="fill: #ffffff" x="793.125" y="720" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="720" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="730" x2="1060.42" y2="730"/>
+    <polygon style="fill: #000000" points="824.125,725 808.125,730 824.125,735 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,725 808.125,730 824.125,735 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="936" y="742.24">Get available mix-net nodes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="750" x2="807.125" y2="750"/>
+    <polygon style="fill: #000000" points="1043.43,755 1059.43,750 1043.43,745 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,755 1059.43,750 1043.43,745 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="963" y="763.24">[NodePubKey, ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1020" x2="800.125" y2="1240"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="1280" x2="800.125" y2="1290"/>
+    <rect style="fill: #ffffff" x="793.125" y="1240" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="1240" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.125" y1="1250" x2="1060.42" y2="1250"/>
+    <polygon style="fill: #000000" points="824.125,1245 808.125,1250 824.125,1255 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.125,1245 808.125,1250 824.125,1255 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="936" y="1262.74">Get available mix-net nodes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="1043.42" y1="1270" x2="807.125" y2="1270"/>
+    <polygon style="fill: #000000" points="1043.43,1275 1059.43,1270 1043.43,1265 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1043.43,1275 1059.43,1270 1043.43,1265 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="964.058" y="1283.63">[NodePubKey, ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="620" x2="800.125" y2="660"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="800.125" y1="700" x2="800.125" y2="720"/>
+    <rect style="fill: #ffffff" x="793.125" y="660" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="793.125" y="660" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="300" x2="1067.43" y2="380"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1067.43" y1="420" x2="1067.43" y2="440"/>
+    <rect style="fill: #ffffff" x="1060.42" y="380" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.42" y="380" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="620" x2="515.15" y2="660"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="700" x2="515.15" y2="740"/>
+    <rect style="fill: #ffffff" x="508.15" y="660" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="660" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="300" x2="515.15" y2="380"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="515.15" y1="420" x2="515.15" y2="440"/>
+    <rect style="fill: #ffffff" x="508.15" y="380" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="508.15" y="380" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="539.15" y1="670" x2="793.125" y2="670"/>
+    <polygon style="fill: #000000" points="539.15,665 523.15,670 539.15,675 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="539.15,665 523.15,670 539.15,675 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="651.055" y="682.79">Get available mix-net nodes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="776.125" y1="690" x2="522.15" y2="690"/>
+    <polygon style="fill: #000000" points="776.125,695 792.125,690 776.125,685 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776.125,695 792.125,690 776.125,685 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="665" y="703.24">[VoterPubKey, ...]</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="793.125" y1="800" x2="620" y2="800"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="620" y1="800" x2="620" y2="820"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="776.125" y1="820" x2="620" y2="820"/>
+    <polygon style="fill: #000000" points="776.125,825 792.125,820 776.125,815 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776.125,825 792.125,820 776.125,815 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="697.055" y="813.789">Check VoterPubKey</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="793.125" y1="1380" x2="620" y2="1380"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="620" y1="1380" x2="620" y2="1400"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="776.125" y1="1400" x2="620" y2="1400"/>
+    <polygon style="fill: #000000" points="776.125,1405 792.125,1400 776.125,1395 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776.125,1405 792.125,1400 776.125,1395 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="697.055" y="1393.79">Check VoterPubKey</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="495.163,631.792 560.866,631.792 549.688,651.694 495.163,651.792 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.163,631.792 560.866,631.792 549.688,651.694 495.163,651.792 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="508.014" y="644.792">
+    <tspan x="508.014" y="644.792">Loop</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="495.048,891.246 560.751,891.246 549.573,911.148 495.048,911.246 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="495.048,891.246 560.751,891.246 549.573,911.148 495.048,911.246 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="507.9" y="904.246">
+    <tspan x="507.9" y="904.246">Loop</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="489.997" width="70.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="489.997" width="70.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="515.15" y="511.897">
+      <tspan x="515.15" y="511.897">CEC API</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="490" y1="514.947" x2="540.3" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1220" y="489.997" width="53.75" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1220" y="489.997" width="53.75" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1246.88" y="511.897">
+      <tspan x="1246.88" y="511.897">Voter</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1230" y1="514.947" x2="1263.75" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="489.997" width="101.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="489.997" width="101.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.55" y="511.897">
+      <tspan x="410.55" y="511.897">CEC Website</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="370" y1="514.947" x2="451.1" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="200" y="489.997" width="46" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="489.997" width="46" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="223" y="511.897">
+      <tspan x="223" y="511.897">CEC</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="210" y1="514.947" x2="236" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1020" y="489.997" width="94.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="489.997" width="94.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1067.43" y="511.897">
+      <tspan x="1067.43" y="511.897">Voter Client</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1030" y1="514.947" x2="1104.85" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="489.997" width="84.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="489.997" width="84.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="902.2" y="511.897">
+      <tspan x="902.2" y="511.897">First Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="870" y1="514.947" x2="934.4" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="489.997" width="80.25" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="489.997" width="80.25" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800.125" y="511.897">
+      <tspan x="800.125" y="511.897">Nth Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="770" y1="514.947" x2="830.25" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="489.997" width="81.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="489.997" width="81.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700.9" y="511.897">
+      <tspan x="700.9" y="511.897">Exit Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="670" y1="514.947" x2="731.8" y2="514.947"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="1090" width="70.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="1090" width="70.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="515.15" y="1111.9">
+      <tspan x="515.15" y="1111.9">CEC API</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="490" y1="1114.95" x2="540.3" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1220" y="1090" width="53.75" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1220" y="1090" width="53.75" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1246.88" y="1111.9">
+      <tspan x="1246.88" y="1111.9">Voter</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1230" y1="1114.95" x2="1263.75" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="1090" width="101.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="1090" width="101.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.55" y="1111.9">
+      <tspan x="410.55" y="1111.9">CEC Website</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="370" y1="1114.95" x2="451.1" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="200" y="1090" width="46" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="1090" width="46" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="223" y="1111.9">
+      <tspan x="223" y="1111.9">CEC</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="210" y1="1114.95" x2="236" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1020" y="1090" width="94.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="1090" width="94.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1067.43" y="1111.9">
+      <tspan x="1067.43" y="1111.9">Voter Client</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1030" y1="1114.95" x2="1104.85" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="860" y="1090" width="84.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="860" y="1090" width="84.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="902.2" y="1111.9">
+      <tspan x="902.2" y="1111.9">First Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="870" y1="1114.95" x2="934.4" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760" y="1090" width="80.25" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="1090" width="80.25" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800.125" y="1111.9">
+      <tspan x="800.125" y="1111.9">Nth Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="770" y1="1114.95" x2="830.25" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="1090" width="81.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="1090" width="81.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700.9" y="1111.9">
+      <tspan x="700.9" y="1111.9">Exit Node</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="670" y1="1114.95" x2="731.8" y2="1114.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="1530" width="70.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="1530" width="70.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="515.15" y="1551.9">
+      <tspan x="515.15" y="1551.9">CEC API</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="490" y1="1554.95" x2="540.3" y2="1554.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1220" y="1530" width="53.75" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1220" y="1530" width="53.75" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1246.88" y="1551.9">
+      <tspan x="1246.88" y="1551.9">Voter</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1230" y1="1554.95" x2="1263.75" y2="1554.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="1530" width="101.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="1530" width="101.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.55" y="1551.9">
+      <tspan x="410.55" y="1551.9">CEC Website</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="370" y1="1554.95" x2="451.1" y2="1554.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="200" y="1530" width="46" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="1530" width="46" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="223" y="1551.9">
+      <tspan x="223" y="1551.9">CEC</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="210" y1="1554.95" x2="236" y2="1554.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1020" y="1530" width="94.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="1530" width="94.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1067.42" y="1551.9">
+      <tspan x="1067.42" y="1551.9">Voter Client</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1030" y1="1554.95" x2="1104.85" y2="1554.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="300" x2="1246.88" y2="380"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1246.88" y1="420" x2="1246.88" y2="440"/>
+    <rect style="fill: #ffffff" x="1239.88" y="380" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1239.88" y="380" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1091.43" y1="390" x2="1239.88" y2="390"/>
+    <polygon style="fill: #000000" points="1091.42,385 1075.42,390 1091.42,395 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1091.42,385 1075.42,390 1091.42,395 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1162.06" y="403.631">Get voters</text>
+  </g>
+</svg>
