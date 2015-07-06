@@ -76,4 +76,4 @@ immediately and each received item should have hash value. This will make sure,
 than order of received items was not changed. All clients can request new items
 starting form given last item ID they have.
 
-.. image:: spec/interactions.svg
+.. image:: spec/interactions.png
