@@ -1,6 +1,6 @@
 .. note::
 
-  This project was cancelled because we would that `Helios project`_ does exactly same thing and does it much better. So if you are interested in full E2E verifyable internet voting protocol see the `Helios protocol`_.
+  This project was cancelled because we found that `Helios project`_ does exactly same thing as we d and does it much better. So if you are interested in full E2E verifiable internet voting protocol see the `Helios protocol`_.
   
 .. _Helios project: https://vote.heliosvoting.org/
 .. _Helios protocol: http://documentation.heliosvoting.org/verification-specs/helios-v4
